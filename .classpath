@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/APIs/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/APIs/gnujaxp-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/APIs/HikariCP-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/APIs/jcommon.jar"/>
+	<classpathentry kind="lib" path="D:/APIs/jfreechart.jar"/>
+	<classpathentry kind="lib" path="D:/PROGRAMAÇÃO/mysql-connector-java-5.1.42-bin/mysql-connector-java-5.1.42-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Victor/Downloads/groovy-3.0.0-alpha-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Victor/Downloads/JDA-5.0.0-alpha.17-withDependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
